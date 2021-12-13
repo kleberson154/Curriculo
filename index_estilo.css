@@ -308,22 +308,22 @@ label span{
 }
 
 .ativar-dark:checked ~ .dark-mode{
-    --cor-cabeçalho-two:  #181818;
-    --cor-letra-cabeçalho-two:  #cc8400;
-    --cor-fundo-header-two:  #383838;
+    --cor-cabeçalho-two:  #1e272e;
+    --cor-letra-cabeçalho-two:  #0be881;
+    --cor-fundo-header-two:  #485460;
 
-    --cor-fundo-main-two:  #383838;
-    --cor-atras-bloco-two:  #181818;
-    --cor-linha-bloco-two:  #cc8400;
-    --cor-do-bloco-two:  #181818;
-    --cor-letra-bloco-two:  #cc8400;
+    --cor-fundo-main-two:  #485460;
+    --cor-atras-bloco-two:  #1e272e;
+    --cor-linha-bloco-two:  #0be881;
+    --cor-do-bloco-two:  #1e272e;
+    --cor-letra-bloco-two:  #0be881;
 
-    --cor-footer-two: #212121;
-    --cor-letra-footer-two:  #cc8400;
-    --cor-linha-footer-two:  #cc8400;
+    --cor-footer-two: #1e272e;
+    --cor-letra-footer-two:  #0be881;
+    --cor-linha-footer-two:  #0be881;
 
-    --cor-fundo-botao-two: #181818;
-    --cor-botao-two:  #cc8400;
+    --cor-fundo-botao-two: #353b3f;
+    --cor-botao-two:  #0be881;
 }
 
 .ativar-dark:checked ~ .dark-mode header{
